@@ -1,0 +1,3 @@
+[submodule "double-pendulum"]
+	path = double-pendulum
+	url = git@github.com:topaz1008/double-pendulum.git
