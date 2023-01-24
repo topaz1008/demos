@@ -1,3 +1,21 @@
 [submodule "double-pendulum"]
-	path = double-pendulum
-	url = git@github.com:topaz1008/double-pendulum.git
+    path = double-pendulum
+    url = git@github.com:topaz1008/double-pendulum.git
+[submodule "canvas-fluid-solver"]
+    path = canvas-fluid-solver
+    url = git@github.com:topaz1008/canvas-fluid-solver.git
+[submodule "voronoi-breakable"]
+    path = voronoi-breakable
+    url = git@github.com:topaz1008/voronoi-breakable.git
+[submodule "canvas-node-garden"]
+    path = canvas-node-garden
+    url = git@github.com:topaz1008/canvas-node-garden.git
+[submodule "canvas-particle-system"]
+    path = canvas-particle-system
+    url = git@github.com:topaz1008/canvas-particle-system.git
+[submodule "canvas-raytracer"]
+    path = canvas-raytracer
+    url = git@github.com:topaz1008/canvas-raytracer.git
+[submodule "webgl-julia-set"]
+	path = webgl-julia-set
+    url = git@github.com:topaz1008/webgl-julia-set.git
