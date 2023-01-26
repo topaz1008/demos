@@ -1,0 +1,21 @@
+{
+    "name": "demos",
+    "version": "1.0.0",
+    "author": {
+        "name": "Topaz Bar",
+        "email": "topaz1008@gmail.com"
+    },
+    "license": "MIT",
+    "type": "module",
+    "description": "A build system able to build and package different repositories.",
+    "devDependencies": {
+        "grunt": "^1.5.3",
+        "grunt-contrib-clean": "^2.0.1",
+        "grunt-contrib-concat": "^2.1.0",
+        "grunt-contrib-cssmin": "^4.0.0",
+        "grunt-contrib-uglify": "^5.2.2"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\""
+    }
+}

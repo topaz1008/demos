@@ -1,6 +1,3 @@
-[submodule "double-pendulum"]
-    path = double-pendulum
-    url = git@github.com:topaz1008/double-pendulum.git
 [submodule "canvas-fluid-solver"]
     path = canvas-fluid-solver
     url = git@github.com:topaz1008/canvas-fluid-solver.git
@@ -19,3 +16,6 @@
 [submodule "webgl-julia-set"]
 	path = webgl-julia-set
     url = git@github.com:topaz1008/webgl-julia-set.git
+[submodule "double-pendulum"]
+    path = double-pendulum
+    url = git@github.com:topaz1008/double-pendulum.git
