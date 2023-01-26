@@ -1,5 +1,5 @@
 # Pull updated version from original repo
-git submodule update
+git submodule update --remote --merge
 git submodule foreach git checkout master
 git submodule foreach git pull origin master
 

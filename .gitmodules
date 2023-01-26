@@ -1,21 +1,28 @@
 [submodule "canvas-fluid-solver"]
     path = canvas-fluid-solver
     url = git@github.com:topaz1008/canvas-fluid-solver.git
+    update = merge
 [submodule "voronoi-breakable"]
     path = voronoi-breakable
     url = git@github.com:topaz1008/voronoi-breakable.git
+    update = merge
 [submodule "canvas-node-garden"]
     path = canvas-node-garden
     url = git@github.com:topaz1008/canvas-node-garden.git
+    update = merge
 [submodule "canvas-particle-system"]
     path = canvas-particle-system
     url = git@github.com:topaz1008/canvas-particle-system.git
+    update = merge
 [submodule "canvas-raytracer"]
     path = canvas-raytracer
     url = git@github.com:topaz1008/canvas-raytracer.git
+    update = merge
 [submodule "webgl-julia-set"]
 	path = webgl-julia-set
     url = git@github.com:topaz1008/webgl-julia-set.git
+    update = merge
 [submodule "double-pendulum"]
     path = double-pendulum
     url = git@github.com:topaz1008/double-pendulum.git
+    update = merge
